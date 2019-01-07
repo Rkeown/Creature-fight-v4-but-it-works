@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pikachu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=w
+comment1.target=Pikachu(greenfoot.World)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pikachu\r\n\ \r\n\ @param\ w\ is\ a\ reference\ to\ the\ world\ that\ Pikachu\ gets\ added\ to\r\n\ @return\ An\ object\ of\ type\ Pikachu\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Pikachu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=idx
+comment3.target=void\ attack(int)
+comment3.text=\r\n\ attack\ takes\ away\ health\ from\ the\ enemy\ Creature\ using\ one\ of\r\n\ two\ predefined\ attacks\r\n\ \r\n\ @param\ idx\ is\ the\ index\ of\ the\ attack\ option\ selected\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ attackAnimation()
+comment4.text=\r\n\ who\ would\ have\ thought\ that\ this\ still\ hasn't\ changed\ from\ Charmander\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ are\ no\ returns\r\n
+comment5.params=idx
+comment5.target=void\ switchCreature(int)
+comment5.text=\r\n\ switchCreature\ switches\ some\ Pokemon\u2122\uFE0F(spent\ 5\ mins\ on\ the\ tm)\ through\ coding\ mojo\r\n\ @param\ there\ is\ yet\ another\ idx\ parameter\r\n\ @return\ there\ are\ no\ returns\r\n
+comment6.params=
+comment6.target=void\ switchedIn()
+comment6.text=\r\n\ switchedIn\ tells\ this\ one\ to\ hide\ or\ something\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ there\ are\ returns\r\n
+numComments=7
